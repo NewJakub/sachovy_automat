@@ -53,7 +53,7 @@
   - Okno se bude skládat ze dvou tlačítek ("Vrátit se do hry" a "Opustit aplikaci"), které budou uprostřed obrazovky.  
   - ![](https://github.com/NewJakub/sachovy_automat/blob/main/pause_menu.png)
 - Šachovnice
-  - Zde se bude nacházet šachovnice, časovač v pravém horním rohu a tlačítko s ikonkou ozubeného kola v levém horním rohu.
+  - Zde se bude nacházet šachovnice, časovač v pravém horním rohu a tlačítko s ikonkou pauzy v levém horním rohu.
   - ![](https://github.com/NewJakub/sachovy_automat/blob/main/game_board.png)
 - Finální menu
   - Zde se budou nacházet dvě tlačítka ("Hrát znovu" a "Opustit aplikaci"), které budou umístěné uprostřed okna.
