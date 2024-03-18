@@ -18,26 +18,26 @@
 ## Scénáře
 
 ### Všechny reálné způsoby použití
-- Způsob používání je jen jeden z důvodu jednoduchosti aplikace.
+- Způsob používání je jen jeden z důvodů jednoduchosti aplikace.
 
 ### Typy uživatelských rolí
 - Hráč: Hráč může zapnout hru a ukončit aplikaci. Víc typů není potřeba.
 
 ### Vymezení rozsahu 
-- V aplikace nebude možnost importovat hry ve formátu PGN, rozehranou hru uložit nepůjde.
-- Také nebude možné si ze začátku rozestavit figurky - vždy se bude začínat ze základní pozice.
+- V aplikaci nebude možnost importovat hry ve formátu PGN, rozehranou hru uložit nepůjde.
+- Také nebude možné si ze začátku rozestavět figurky - vždy se bude začínat ze základní pozice.
 
 ### Pracovní tok
 
 - Zapnutí hry nebo vypnutí aplikace
-  - Po zapnutí aplikace se uživateli zobrazí hlavní hlavní menu. Zde se budou nacházet dvě tlačítka, které budou umístěné uprostřed okna. Pomocí horního tlačítka zapneme novou hru. Pomocí spodního tlačítka aplikaci vypneme.
+  - Po zapnutí aplikace se uživateli zobrazí hlavní menu. Zde se budou nacházet dvě tlačítka, které budou umístěné uprostřed okna. Pomocí horního tlačítka zapneme novou hru. Pomocí spodního tlačítka aplikaci vypneme.
 
 - Nastavení hry 
-  - Když se uživatel rozhodne pro zapnutí hry, tak se mu ukáže nabídka ve které si bude moct vybrat barvu za kterou bude hrát a jestli bude zapnut časovač.
+  - Když se uživatel rozhodne pro zapnutí hry, tak se mu ukáže nabídka, ve které si bude moct vybrat barvu, za kterou bude hrát a jestli bude zapnut časovač.
 
 - Hra
   - Po dokončení nastavení se hráči zobrazí šachovnice, na které bude moct hrát proti šachovému automatu. Uživatel také bude moct pozastavit hru pomocí tlačítka v levém horním rohu nebo tlačítka "Esc". V tomto prostředí se bude nacházet dokud hra neskončí anebo aplikaci nevypne.
-  - Pokud se hráč rozhodne hru pozastavit, tak se mu objeví okno, které bude obsahovat dvě tlačítka opustit hru a zpátky do hry.
+  - Pokud se hráč rozhodne hru pozastavit, tak se mu objeví okno, odkud bude moct buď aplikaci opustit anebo se navrátit do hry.
 
 - Konec hry
   - Když skončí hra, uživateli se zobrazí okno místo šachovnice. V tomto okně si bude moct vybrat, jestli chece hrát znovu nebo jestli chce aplikaci ukončit. 
