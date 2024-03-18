@@ -31,14 +31,16 @@
 # Celková hrubá architektura
 
 ### Pracovní tok
-### Hlavní moduly
+### Hlavní moduly (samotné obrázky jsou jenom orientační, barvy budou dodělané podle vybraného schéma)
 - Hlavní menu
-  - Po zapnutí aplikace se uživateli zobrazíhlavní hlavní menu. Zde se budou nacházet dvě tlačítka, které budou umístěné uprostřed okna, jak jde vidět na obrázku. Pomocí horního tlačítka spustíme funkci funkce jmeno======== , která zapne novou hru. Pomocí spodního tlačítka spustíme funkci xxxxxxxx, která aplikaci vypne. 
+  - Po zapnutí aplikace se uživateli zobrazí hlavní hlavní menu. Zde se budou nacházet dvě tlačítka, které budou umístěné uprostřed okna, jak jde vidět na obrázku. Pomocí horního tlačítka spustíme funkci funkce jmeno======== , která zapne novou hru. Pomocí spodního tlačítka spustíme funkci xxxxxxxx, která aplikaci vypne. 
 ![](https://github.com/NewJakub/sachovy_automat/blob/main/Screenshot%202024-03-18%20211953.png)
 - Nastavení hry
-  - 
+  - Když se uživatel rozhodne pro zapnutí hry, tak se mu ukáže nabídka ve které si bude moct vybrat barvu za kterou bude hrát a jestli bude zapnut časovač.
 - Šachovnice
+  - Po dokončení nastavení se hráči zobrazí šachovnice, na které bude moct hrát proti šachovému automatu.
 - Finální menu
+  - Když skončí hra, uživateli se zobrazí okno místo šachovnice. V tomto okně si bude moct vybrat, jestli chece hrát znovu nebo jestli chce aplikaci ukončit. 
 ### Všechny detaily: obrazovky, okna, tisky, chybové zprávy, logování
 ### Všechny možné toky programu a jejich projevy
 ### Všechny dohodnuté principy
