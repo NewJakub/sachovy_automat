@@ -33,7 +33,7 @@
 ### Pracovní tok
 ### Hlavní moduly
 - Hlavní menu
-  -Po zapnutí aplikace se uživateli zobrazíhlavní hlavní menu. Zde se budou nacházet dvě tlačítka, které budou umístěné uprostřed okna, jak jde vidět na obrázku. Pomocí horního tlačítka spustíme funkci funkce jmeno======== , která zapne novou hru. Pomocí spodního tlačítka spustíme funkci xxxxxxxx, která aplikaci vypne. 
+  - Po zapnutí aplikace se uživateli zobrazíhlavní hlavní menu. Zde se budou nacházet dvě tlačítka, které budou umístěné uprostřed okna, jak jde vidět na obrázku. Pomocí horního tlačítka spustíme funkci funkce jmeno======== , která zapne novou hru. Pomocí spodního tlačítka spustíme funkci xxxxxxxx, která aplikaci vypne. 
 - Nastavení hry
 - Šachovnice
 - Finální menu
