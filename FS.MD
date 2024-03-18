@@ -42,6 +42,9 @@
 - Konec hry
   - Když skončí hra, uživateli se zobrazí okno místo šachovnice. V tomto okně si bude moct vybrat, jestli chece hrát znovu nebo jestli chce aplikaci ukončit. 
 
+- Error hry
+  - Při erroru aplikace bude uživatel poslán do hlavního menu.
+
 ### Hlavní moduly (samotné obrázky jsou jenom orientační, barvy budou dodělané podle vybraného schéma)
 - Hlavní menu
   - Zde se budou nacházet dvě tlačítka ("Zapnout hru" a "Opustit aplikaci"), které budou umístěné uprostřed okna.  
