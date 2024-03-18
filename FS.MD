@@ -8,6 +8,8 @@
 ### Účel
 - Účel dokumentu je detailní popsání funkcí a stavů aplikace.
 ### Konvence dokumentu
+-
+--------------------------------------------------------
 ### Pro koho je dokument určený
 - Programátory, vývojář, designery a zákazníky.
 ### Odkazy na další dokumenty
