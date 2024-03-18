@@ -18,7 +18,7 @@
 ## Scénáře
 
 ### Všechny reálné způsoby použití
-- Způsob používání je jen jeden. 
+- Způsob používání je jen jeden z důvodu jednoduchosti aplikace.
 
 ### Typy uživatelských rolí
 - Hráč: Hráč může zapnout hru a ukončit aplikaci. Víc typů není potřeba.
@@ -30,7 +30,7 @@
 ### Pracovní tok
 
 - Zapnutí hry nebo vypnutí aplikace
-  - Po zapnutí aplikace se uživateli zobrazí hlavní hlavní menu. Zde se budou nacházet dvě tlačítka, které budou umístěné uprostřed okna. Pomocí horního tlačítka spustíme funkci funkce jmeno======== , která zapne novou hru. Pomocí spodního tlačítka spustíme funkci xxxxxxxx, která aplikaci vypne.
+  - Po zapnutí aplikace se uživateli zobrazí hlavní hlavní menu. Zde se budou nacházet dvě tlačítka, které budou umístěné uprostřed okna. Pomocí horního tlačítka zapneme novou hru. Pomocí spodního tlačítka aplikaci vypneme.
 
 - Nastavení hry 
   - Když se uživatel rozhodne pro zapnutí hry, tak se mu ukáže nabídka ve které si bude moct vybrat barvu za kterou bude hrát a jestli bude zapnut časovač.
