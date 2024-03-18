@@ -45,7 +45,7 @@
 ### Hlavní moduly (samotné obrázky jsou jenom orientační, barvy budou dodělané podle vybraného schéma)
 - Hlavní menu
   - Zde se budou nacházet dvě tlačítka ("Zapnout hru" a "Opustit aplikaci"), které budou umístěné uprostřed okna.  
-![](https://github.com/NewJakub/sachovy_automat/blob/main/Screenshot%202024-03-18%20211953.png)
+
 - Nastavení hry
   - Bude si bude moct vybrat barvu za kterou bude hrát a jestli bude zapnut časovač.
 - Okno pozastavení hry
