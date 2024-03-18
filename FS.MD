@@ -8,7 +8,7 @@
 ### Účel
 - Účel dokumentu je detailní popsání funkcí a stavů aplikace.
 ### Konvence dokumentu
-- Hlavní nadpisy jsou označené jako "#". Pod nadpisy jsou pak označené "##" a "###". Nížší úrovně jsou už označované "nestováním bullet listů" pomocí znaku "-". 
+- Hlavní nadpisy jsou označené jako "#". Podnadpisy jsou pak označené "##" a "###". Nížší úrovně jsou už označované "nestováním bullet listů" pomocí znaku "-". 
 --------------------------------------------------------
 ### Pro koho je dokument určený
 - Programátory, vývojář, designery a zákazníky.
@@ -47,7 +47,7 @@
   - Zde se budou nacházet dvě tlačítka ("Zapnout hru" a "Opustit aplikaci"), které budou umístěné uprostřed okna.  
 
 - Nastavení hry
-  - Bude dvě obsahovat dropdown menu ("Vybrat barvu" a "Zapnout časovač").
+  - Bude obsahovat dvě dropdown menu ("Barva" a "Časovač") a jedno tlačítko (Zapnout hru).
 - Okno pozastavení hry
   - Okno se bude skládat ze dvou tlačítek ("Vrátit se do hry" a "Opustit aplikaci"), které budou uprostřed obrazovky.  
 - Šachovnice
