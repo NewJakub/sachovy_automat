@@ -47,9 +47,9 @@
   - Zde se budou nacházet dvě tlačítka ("Zapnout hru" a "Opustit aplikaci"), které budou umístěné uprostřed okna.  
 
 - Nastavení hry
-  - Bude si bude moct vybrat barvu za kterou bude hrát a jestli bude zapnut časovač.
+  - Bude dvě obsahovat dropdown menu ("Vybrat barvu" a "Zapnout časovač").
 - Okno pozastavení hry
-  - Okno se bude skládat ze dvou tlačítek ("Vrátit do hry" a "Opustit aplikaci"), které budou uprostřed obrazovky.  
+  - Okno se bude skládat ze dvou tlačítek ("Vrátit se do hry" a "Opustit aplikaci"), které budou uprostřed obrazovky.  
 - Šachovnice
   - Po dokončení nastavení se hráči zobrazí šachovnice, na které bude moct hrát proti šachovému automatu.
 
