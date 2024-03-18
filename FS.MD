@@ -16,12 +16,13 @@
 # Scénáře
 ### Všechny reálné způsoby použití
 - Způsob používání je jen jeden. 
-### Typy uživatelských rolí, „personas“
+### Typy uživatelských rolí
 - Žádné uživatelské role nebudou, protože je nepotřebujeme. Aplikace je na to moc jednoduchá.
 ### Detaily, motivace, „živé“ příklady
 
 ### Vymezení rozsahu 
-– fsfsf
+- V aplikace nebude možnost importovat hry ve formátu PGN.
+- Také nebude možné si ze začátku rozestavit figurky - vždy se bude začínat ze základní pozice.
 
 ### Na co se NEbude klást důraz (výkonnost)
 
@@ -29,6 +30,10 @@
 
 ### Pracovní tok
 ### Hlavní moduly
+- Hlavní menu
+- Nastavení hry
+- Šachovnice
+- Finální menu
 ### Všechny detaily: obrazovky, okna, tisky, chybové zprávy, logování
 ### Všechny možné toky programu a jejich projevy
 ### Všechny dohodnuté principy
