@@ -34,7 +34,7 @@
 ### Hlavní moduly
 - Hlavní menu
   - Po zapnutí aplikace se uživateli zobrazíhlavní hlavní menu. Zde se budou nacházet dvě tlačítka, které budou umístěné uprostřed okna, jak jde vidět na obrázku. Pomocí horního tlačítka spustíme funkci funkce jmeno======== , která zapne novou hru. Pomocí spodního tlačítka spustíme funkci xxxxxxxx, která aplikaci vypne. 
-![](image)
+![](https://github.com/NewJakub/sachovy_automat/blob/main/Screenshot%202024-03-18%20211953.png)
 - Nastavení hry
   - 
 - Šachovnice
