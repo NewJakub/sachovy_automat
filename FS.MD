@@ -4,18 +4,18 @@
 - Verze 1.0
 - Datum: 16.3.2024
 
-# Úvod
+## Úvod
 ### Účel
 - Účel dokumentu je detailní popsání funkcí a stavů aplikace.
 ### Konvence dokumentu
-- Hlavní nadpisy jsou označené jako "#". Pod nadpisy jsou pak označené "###". Nížší úrovně jsou už označované "nestováním bullet listů" pomocí znaku "-". 
+- Hlavní nadpisy jsou označené jako "#". Pod nadpisy jsou pak označené "##" a "###". Nížší úrovně jsou už označované "nestováním bullet listů" pomocí znaku "-". 
 --------------------------------------------------------
 ### Pro koho je dokument určený
 - Programátory, vývojář, designery a zákazníky.
 ### Odkazy na další dokumenty
 - SRS šachový automat
 
-# Scénáře
+## Scénáře
 
 ### Všechny reálné způsoby použití
 - Způsob používání je jen jeden. 
@@ -29,7 +29,7 @@
 
 ### Na co se NEbude klást důraz (výkonnost)
 
-# Celková hrubá architektura
+## Celková hrubá architektura
 
 ### Pracovní tok
 - 
