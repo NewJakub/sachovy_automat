@@ -37,7 +37,7 @@
 
 - Hra
   - Po dokončení nastavení se hráči zobrazí šachovnice, na které bude moct hrát proti šachovému automatu. Uživatel také bude moct pozastavit hru pomocí tlačítka v levém horním rohu nebo tlačítka "Esc". V tomto prostředí se bude nacházet dokud hra neskončí anebo aplikaci nevypne.
-  - Pokud se hráč rozhodne hru pozastavit, tak se mu objeví okno, které bude obsahovat opustit hru a zpátky do hry.
+  - Pokud se hráč rozhodne hru pozastavit, tak se mu objeví okno, které bude obsahovat dvě tlačítka opustit hru a zpátky do hry.
 
 - Konec hry
   - Když skončí hra, uživateli se zobrazí okno místo šachovnice. V tomto okně si bude moct vybrat, jestli chece hrát znovu nebo jestli chce aplikaci ukončit. 
