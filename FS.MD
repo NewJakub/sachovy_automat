@@ -8,7 +8,7 @@
 ### Účel
 - Účel dokumentu je detailní popsání funkcí a stavů aplikace.
 ### Konvence dokumentu
--
+- Hlavní nadpisy jsou označené jako "#". Pod nadpisy jsou pak označené "###". Nížší úrovně jsou už označované "nestováním bullet listů" pomocí znaku "-". 
 --------------------------------------------------------
 ### Pro koho je dokument určený
 - Programátory, vývojář, designery a zákazníky.
@@ -16,11 +16,12 @@
 - SRS šachový automat
 
 # Scénáře
+
 ### Všechny reálné způsoby použití
 - Způsob používání je jen jeden. 
+
 ### Typy uživatelských rolí
-- Žádné uživatelské role nebudou, protože je nepotřebujeme. Aplikace je na to moc jednoduchá.
-### Detaily, motivace, „živé“ příklady
+- Hráč: Hráč může zapnout hru a ukončit aplikaci. Víc typů není potřeba.
 
 ### Vymezení rozsahu 
 - V aplikace nebude možnost importovat hry ve formátu PGN.
@@ -31,6 +32,7 @@
 # Celková hrubá architektura
 
 ### Pracovní tok
+- 
 ### Hlavní moduly (samotné obrázky jsou jenom orientační, barvy budou dodělané podle vybraného schéma)
 - Hlavní menu
   - Po zapnutí aplikace se uživateli zobrazí hlavní hlavní menu. Zde se budou nacházet dvě tlačítka, které budou umístěné uprostřed okna, jak jde vidět na obrázku. Pomocí horního tlačítka spustíme funkci funkce jmeno======== , která zapne novou hru. Pomocí spodního tlačítka spustíme funkci xxxxxxxx, která aplikaci vypne. 
@@ -41,6 +43,3 @@
   - Po dokončení nastavení se hráči zobrazí šachovnice, na které bude moct hrát proti šachovému automatu.
 - Finální menu
   - Když skončí hra, uživateli se zobrazí okno místo šachovnice. V tomto okně si bude moct vybrat, jestli chece hrát znovu nebo jestli chce aplikaci ukončit. 
-### Všechny detaily: obrazovky, okna, tisky, chybové zprávy, logování
-### Všechny možné toky programu a jejich projevy
-### Všechny dohodnuté principy
