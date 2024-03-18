@@ -9,7 +9,7 @@
 - Účel dokumentu je detailní popsání funkcí a stavů aplikace.
 ### Konvence dokumentu
 - Hlavní nadpisy jsou označené jako "#". Podnadpisy jsou pak označené "##" a "###". Nížší úrovně jsou už označované "nestováním bullet listů" pomocí znaku "-". 
---------------------------------------------------------
+
 ### Pro koho je dokument určený
 - Programátory, vývojář, designery a zákazníky.
 ### Odkazy na další dokumenty
@@ -45,13 +45,16 @@
 ### Hlavní moduly (samotné obrázky jsou jenom orientační, barvy budou dodělané podle vybraného schéma)
 - Hlavní menu
   - Zde se budou nacházet dvě tlačítka ("Zapnout hru" a "Opustit aplikaci"), které budou umístěné uprostřed okna.  
-
+  - ![](https://github.com/NewJakub/sachovy_automat/blob/main/main_menu.png)
 - Nastavení hry
   - Bude obsahovat dvě dropdown menu ("Barva" a "Časovač") a jedno tlačítko (Zapnout hru).
+  - ![](https://github.com/NewJakub/sachovy_automat/blob/main/settings.png)
 - Okno pozastavení hry
   - Okno se bude skládat ze dvou tlačítek ("Vrátit se do hry" a "Opustit aplikaci"), které budou uprostřed obrazovky.  
+  - ![](https://github.com/NewJakub/sachovy_automat/blob/main/pause_menu.png)
 - Šachovnice
   - Po dokončení nastavení se hráči zobrazí šachovnice, na které bude moct hrát proti šachovému automatu.
-
+  - ![](https://github.com/NewJakub/sachovy_automat/blob/main/game_board.png)
 - Finální menu
   - Zde se budou nacházet dvě tlačítka ("Hrát znovu" a "Opustit aplikaci"), které budou umístěné uprostřed okna.
+  - ![](https://github.com/NewJakub/sachovy_automat/blob/main/game_over.png)
