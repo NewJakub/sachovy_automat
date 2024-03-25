@@ -23,6 +23,21 @@ namespace sachovy_automat
         public MainWindow()
         {
             InitializeComponent();
+
         }
+        public void StartGame(object sender, RoutedEventArgs e)
+        {
+            Heading.Visibility = Visibility.Collapsed;
+            StartButton.Visibility = Visibility.Collapsed;
+            QuitButton.Visibility = Visibility.Collapsed;
+            
+        }
+        public void QuitGame(object sender, RoutedEventArgs e)
+        {
+            Application.Current.Shutdown();
+            
+        }
+
     }
+
 }
