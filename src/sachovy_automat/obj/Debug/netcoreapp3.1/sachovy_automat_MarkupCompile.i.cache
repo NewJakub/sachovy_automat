@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
 C:\Users\cernosek.ja.2021\sachovy_automat\src\sachovy_automat\App.xaml
-11407045341
+24826007
 
-51815153993
+6-382897170
 192-1533232326
-MainWindow.xaml;
+ChessBoard.xaml;MainWindow.xaml;
 
-False
+True
 

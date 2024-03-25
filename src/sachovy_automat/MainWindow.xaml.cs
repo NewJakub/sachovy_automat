@@ -30,7 +30,6 @@ namespace sachovy_automat
             Heading.Visibility = Visibility.Collapsed;
             StartButton.Visibility = Visibility.Collapsed;
             QuitButton.Visibility = Visibility.Collapsed;
-            
         }
         public void QuitGame(object sender, RoutedEventArgs e)
         {
