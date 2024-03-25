@@ -5,8 +5,33 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:sachovy_automat"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="540" Width="960">
     <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
 
+        <TextBlock Grid.Row="1" Grid.Column="3" Grid.ColumnSpan="3" Grid.RowSpan="2" FontSize="50" VerticalAlignment="Center" HorizontalAlignment="Center">Šachy</TextBlock>
+        <Button Grid.Row="3" Grid.Column="3" Grid.ColumnSpan="3" Grid.RowSpan="2" Height="50" Width="200">NOVÁ HRA</Button>
+        <Button Grid.Row="5" Grid.Column="3" Grid.ColumnSpan="3" Grid.RowSpan="2" Height="50" Width="200">ODEJÍT ZE HRY</Button>
     </Grid>
 </Window>
